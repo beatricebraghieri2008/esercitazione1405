@@ -63,3 +63,7 @@ if __name__ == '__main__':
     main()
 
 
+#ogni elemento della lista clientsè una sottolista con tre diversi valori (info di ogni cliente)
+#c0 è il codice cliente
+#c1 è il kg di bucato lavato
+#è l'importo pagato
